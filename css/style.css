@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  height: 50px;
+  text-align: center;
+}
